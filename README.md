@@ -1,2 +1,2 @@
-# It-harjunajot
+# Itä-harjunajot
 Ajojen materiaalin editointi
